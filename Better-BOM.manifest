@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"f06a6a4b-dece-49c6-90da-8be34b98359d",
+	"author":	"CyberReefGuru",
+	"description":	{
+		"":	"Updated version of CSV BOM that creates better outcomes."
+	},
+	"version":	"0.0.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
