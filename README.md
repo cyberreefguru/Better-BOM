@@ -11,6 +11,12 @@ If you get an error saying not all components have been loaded, try activing a s
 
 ![Load Error](resources/load_error.png)
 
+### Options
+
+The Better-BOM addin supports many different options through two expandable areas in the main dialog window.
+
+![Options](resources/bom_default_view_expand.png)
+
 ### Additional Properties
 
 The additional properties section allows you to include details about the components physical attributes in the output file.
@@ -105,6 +111,6 @@ The smallest value becomes the height (thickness), the next larger the width and
 	![Add-In Run On Start](resources/addin_dialog_select_run.png)
 
 After _Run_ was clicked the Add-Ins dialog closes automatically.
-Check the _Create_ toolbar panel! Better BOM is ready to use!
+Check the _Create_ toolbar and you should see the "Create a Bill of Materials" menu option.  The Better-BOM addin is ready to use.
 
 ![Create BOM](resources/toolbar_solid_create_bom.png)
