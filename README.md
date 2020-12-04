@@ -1,5 +1,5 @@
 # Better-BOM
-Creates a bill of material and cut lists from the browser components tree in Autodesk Fusion360.
+Creates a bill of material and cut lists from the browser components tree in Autodesk Fusion360. This work is derived from the amazing work of Peter; his original add-in can be found ![here](https://github.com/macmanpb/CSV-BOM).
 
 ## General Usage Instructions
 After [installation](#installation), go to the toolbar, select the "Solid" if it is not already selected. Click the "Create" submenu and choose "Create a Bill of Materials". A simplified dialog appears which shows a minimal number of options to control the output. Additional output options are available under "Additional Properties" and "Advanced". Once the required options are selected, click "OK" to save your BOM file. A dialog will popup asking for a location to save the file and the filename. Name your file and click "OK". After creating the file a message box popups with the information that the file has successfully created. You may open the file in any app that can handle CSV formatted files. 
