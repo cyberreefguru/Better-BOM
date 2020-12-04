@@ -88,7 +88,7 @@ The smallest value becomes the height (thickness), the next larger the width and
 
 ## Installation
 
-1. Checkout the repository from [Github](https://github.com/cyberreefguru/BetterBOM) or get the ZIP-package [here](https://github.com/cyberreefguru/BetterBOM/archive/master.zip)
+1. Checkout the repository from [Github](https://github.com/cyberreefguru/Better-BOM) or get the ZIP-package [here](https://github.com/cyberreefguru/Better-BOM/archive/better-bom.zip)
 2. If you have checked out the repo, skip to step 4
 3. Extract the content of the downloaded ZIP to a preferred location
 4. Open Fusion360 and select the Tools tab from the toolbar
@@ -101,10 +101,10 @@ The smallest value becomes the height (thickness), the next larger the width and
 	![Add-Ins dialog](resources/addin_dialog_plus.png)
 8. Locate the unzipped _Better-BOM_ folder, open it and choose _Better-BOM.py_ and click **OK**
 9. The Add-In is now listed but not running. Select the _Better BOM_ entry and click _Run_; If you want the add-in to run each time you lauch Fusion, select the "Run on Startup" option as well
-	![Add-In Run](resources/addins-dialog-select-arrow.png)
-	![Add-In Run On Start](resources/addins-dialog-select-run.png)
+	![Add-In Run](resources/addins_dialog_select_arrow.png)
+	![Add-In Run On Start](resources/addins_dialog_select_run.png)
 
 After _Run_ was clicked the Add-Ins dialog closes automatically.
-Check the _Create_ toolbar panel! Better BOM is ready to use ;-)
+Check the _Create_ toolbar panel! Better BOM is ready to use!
 
 ![Create BOM](resources/toolbar_solid_create_bom.png)
