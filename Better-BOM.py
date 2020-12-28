@@ -278,10 +278,10 @@ class BOMCommandExecuteHandler(adsk.core.CommandEventHandler):
             			bbX = "{0:.3f}".format(dimX)
             			bbY = "{0:.3f}".format(dimY)
             			bbZ = "{0:.3f}".format(dimZ)
-                        # write dimensions
-            			csvStr += '"' + self.replacePointDelimterOnPref(prefs[KEY_PREF_USE_COMMA], bbX) + '",'
-            			csvStr += '"' + self.replacePointDelimterOnPref(prefs[KEY_PREF_USE_COMMA], bbY) + '",'
-            			csvStr += '"' + self.replacePointDelimterOnPref(prefs[KEY_PREF_USE_COMMA], bbZ) + '",'
+            		# write dimensions
+            		csvStr += '"' + self.replacePointDelimterOnPref(prefs[KEY_PREF_USE_COMMA], bbX) + '",'
+            		csvStr += '"' + self.replacePointDelimterOnPref(prefs[KEY_PREF_USE_COMMA], bbY) + '",'
+            		csvStr += '"' + self.replacePointDelimterOnPref(prefs[KEY_PREF_USE_COMMA], bbZ) + '",'
             	else:
                     csvStr += "0" + ','
                     csvStr += "0" + ','
