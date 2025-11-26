@@ -52,7 +52,7 @@ The additional properties section allows you to include details about the compon
 > Includes the component description. To edit, right click on a component and select _Properties_ in the submenu.
 
 * **Generate Cut List**
-> Generates a file that can be used in the [cut list optimization software by Gary Darby](http://www.delphiforfun.org/Programs/CutList.htm). 
+> Generates a file that can be used in the cut list optimization software by Gary Darby. 
 This is especially helpful in woodworking projects and allows to optimize panel use.  The file is saved under the same name as the BOM but with a "_cutList.txt" ending.
 
 * **Use comma delimiter**
